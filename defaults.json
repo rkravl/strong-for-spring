@@ -1,0 +1,252 @@
+[
+  {
+    "id": "day1",
+    "name": "Lower body + hip stability",
+    "exercises": [
+      {
+        "id": "1",
+        "group": "Warm-up",
+        "name": "Easy bike or brisk walk",
+        "prescription": "5 min · easy",
+        "instructions": "Start at a conversational pace. Aim to feel warmer, not tired, before strength work.",
+        "url": "https://www.youtube.com/results?search_query=Easy%20bike%20or%20brisk%20walk%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "2",
+        "group": "Warm-up",
+        "name": "90/90 hip switches",
+        "prescription": "1 × 6/side · slow",
+        "instructions": "Sit with both knees bent at roughly 90°. Rotate them side to side slowly, keeping the movement comfortable and avoiding a forced stretch.",
+        "url": "https://www.youtube.com/results?search_query=90/90%20hip%20switches%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "3",
+        "group": "Warm-up",
+        "name": "Glute bridge",
+        "prescription": "2 × 10 · bodyweight",
+        "instructions": "Lie on your back with knees bent. Exhale, press through your heels and lift your hips without arching your lower back.",
+        "url": "https://www.youtube.com/results?search_query=Glute%20bridge%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "4",
+        "group": "Strength",
+        "name": "Goblet squat to box",
+        "prescription": "3 × 8 · controlled depth",
+        "instructions": "Hold one dumbbell at chest height. Sit back to a box or bench, keep pressure through both feet, then stand tall.",
+        "url": "https://www.youtube.com/results?search_query=Goblet%20squat%20to%20box%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "5",
+        "group": "Strength",
+        "name": "Dumbbell Romanian deadlift",
+        "prescription": "3 × 8 · hinge, neutral spine",
+        "instructions": "Keep knees soft, move hips backward and lower weights close to your legs. Stand by driving through your feet.",
+        "url": "https://www.youtube.com/results?search_query=Dumbbell%20Romanian%20deadlift%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "6",
+        "group": "Stability",
+        "name": "Supported split squat",
+        "prescription": "2 × 8/side · hold support",
+        "instructions": "Use a rail or bench for balance. Lower straight down through a short comfortable range, keeping your pelvis level.",
+        "url": "https://www.youtube.com/results?search_query=Supported%20split%20squat%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "7",
+        "group": "Stability",
+        "name": "Lateral band walk",
+        "prescription": "2 × 10 steps/side · level pelvis",
+        "instructions": "Place a light band above your knees. Take small sideways steps without letting your knees cave in or torso sway.",
+        "url": "https://www.youtube.com/results?search_query=Lateral%20band%20walk%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "8",
+        "group": "Core",
+        "name": "Dead bug",
+        "prescription": "2 × 8/side · slow",
+        "instructions": "Lie on your back with arms up and knees bent. Exhale, extend opposite arm and leg, and keep your low back steady.",
+        "url": "https://www.youtube.com/results?search_query=Dead%20bug%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "9",
+        "group": "Cooldown",
+        "name": "Half-kneeling hip flexor stretch",
+        "prescription": "1 × 30 sec/side · gentle",
+        "instructions": "Kneel on a padded surface. Gently tuck your pelvis and shift forward a little until you feel a mild front-hip stretch.",
+        "url": "https://www.youtube.com/results?search_query=Half-kneeling%20hip%20flexor%20stretch%20exercise%20demonstration%20physical%20therapist"
+      }
+    ]
+  },
+  {
+    "id": "day2",
+    "name": "Upper body + shoulder stability",
+    "exercises": [
+      {
+        "id": "10",
+        "group": "Warm-up",
+        "name": "Easy bike or brisk walk",
+        "prescription": "5 min · easy",
+        "instructions": "Start at a conversational pace. Aim to feel warmer, not tired, before strength work.",
+        "url": "https://www.youtube.com/results?search_query=Easy%20bike%20or%20brisk%20walk%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "11",
+        "group": "Warm-up",
+        "name": "Thoracic open book rotation",
+        "prescription": "1 × 6/side · comfortable range",
+        "instructions": "Lie on your side with knees bent. Rotate your upper arm and chest open, following your hand with your eyes.",
+        "url": "https://www.youtube.com/results?search_query=Thoracic%20open%20book%20rotation%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "12",
+        "group": "Warm-up",
+        "name": "Wall slide",
+        "prescription": "2 × 8 · no shrugging",
+        "instructions": "With forearms on a wall, slide upward slowly without shrugging or arching your back. Stay within a comfortable range.",
+        "url": "https://www.youtube.com/results?search_query=Wall%20slide%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "13",
+        "group": "Strength",
+        "name": "Neutral-grip dumbbell floor press",
+        "prescription": "3 × 8–10 · pain-free",
+        "instructions": "Lie on the floor with palms facing in. Lower elbows gently to the floor, then press without flaring your ribs.",
+        "url": "https://www.youtube.com/results?search_query=Neutral-grip%20dumbbell%20floor%20press%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "14",
+        "group": "Strength",
+        "name": "Chest-supported dumbbell row",
+        "prescription": "3 × 10 · controlled",
+        "instructions": "Rest your chest on an incline bench. Pull elbows toward your hips, pause, and lower under control.",
+        "url": "https://www.youtube.com/results?search_query=Chest-supported%20dumbbell%20row%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "15",
+        "group": "Strength",
+        "name": "Incline push-up",
+        "prescription": "2 × 8–12 · stop if painful",
+        "instructions": "Hands on a sturdy bench or wall. Keep your body in one line, lower slowly, and press away without shoulder discomfort.",
+        "url": "https://www.youtube.com/results?search_query=Incline%20push-up%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "16",
+        "group": "Stability",
+        "name": "Band external shoulder rotation at side",
+        "prescription": "2 × 12/side · light resistance",
+        "instructions": "Keep elbow lightly against your ribs. Rotate your forearm outward against a light band without twisting your trunk.",
+        "url": "https://www.youtube.com/results?search_query=Band%20external%20shoulder%20rotation%20at%20side%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "17",
+        "group": "Stability",
+        "name": "Serratus wall slide",
+        "prescription": "2 × 10 · gentle",
+        "instructions": "Forearms on the wall, gently push into it and slide upward. Let shoulder blades rotate naturally; avoid shrugging.",
+        "url": "https://www.youtube.com/results?search_query=Serratus%20wall%20slide%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "18",
+        "group": "Core",
+        "name": "Bird dog",
+        "prescription": "2 × 8/side · avoid rotation",
+        "instructions": "On hands and knees, reach opposite arm and leg long. Pause while keeping hips and shoulders square.",
+        "url": "https://www.youtube.com/results?search_query=Bird%20dog%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "19",
+        "group": "Cooldown",
+        "name": "Doorway pec stretch",
+        "prescription": "1 × 30 sec/side · gentle",
+        "instructions": "Place your forearm on a doorframe below shoulder height and gently turn away. Avoid tingling or pinching.",
+        "url": "https://www.youtube.com/results?search_query=Doorway%20pec%20stretch%20exercise%20demonstration%20physical%20therapist"
+      }
+    ]
+  },
+  {
+    "id": "day3",
+    "name": "Full body + rotational control",
+    "exercises": [
+      {
+        "id": "20",
+        "group": "Warm-up",
+        "name": "Easy bike or brisk walk",
+        "prescription": "5 min · easy",
+        "instructions": "Start at a conversational pace. Aim to feel warmer, not tired, before strength work.",
+        "url": "https://www.youtube.com/results?search_query=Easy%20bike%20or%20brisk%20walk%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "21",
+        "group": "Warm-up",
+        "name": "Cat cow",
+        "prescription": "1 × 8 · comfortable",
+        "instructions": "On hands and knees, alternate between gently rounding and extending your spine. Move smoothly, not to end range.",
+        "url": "https://www.youtube.com/results?search_query=Cat%20cow%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "22",
+        "group": "Warm-up",
+        "name": "Bodyweight reverse lunge",
+        "prescription": "1 × 6/side · hold support",
+        "instructions": "Step back and lower a short distance. Use support if needed and keep front knee tracking over your foot.",
+        "url": "https://www.youtube.com/results?search_query=Bodyweight%20reverse%20lunge%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "23",
+        "group": "Strength",
+        "name": "Dumbbell step-up",
+        "prescription": "3 × 8/side · low step",
+        "instructions": "Use a low stable step. Push through the lead foot to stand; lower slowly without dropping your hip.",
+        "url": "https://www.youtube.com/results?search_query=Dumbbell%20step-up%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "24",
+        "group": "Strength",
+        "name": "Single-arm dumbbell row",
+        "prescription": "3 × 10/side · stable trunk",
+        "instructions": "Support one hand on a bench. Pull the dumbbell toward your hip while keeping your torso still.",
+        "url": "https://www.youtube.com/results?search_query=Single-arm%20dumbbell%20row%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "25",
+        "group": "Strength",
+        "name": "Dumbbell hip thrust",
+        "prescription": "3 × 10 · no back arch",
+        "instructions": "Rest your upper back against a stable bench, feet planted. Lift hips until trunk and thighs align, without overextending.",
+        "url": "https://www.youtube.com/results?search_query=Dumbbell%20hip%20thrust%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "26",
+        "group": "Strength",
+        "name": "Neutral-grip dumbbell bench press",
+        "prescription": "2 × 10 · pain-free",
+        "instructions": "Press with palms facing each other. Keep feet planted and use a pain-free shoulder range.",
+        "url": "https://www.youtube.com/results?search_query=Neutral-grip%20dumbbell%20bench%20press%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "27",
+        "group": "Core",
+        "name": "Pallof press",
+        "prescription": "3 × 10/side · resist rotation",
+        "instructions": "Stand sideways to a band anchor. Press hands forward and resist being pulled into rotation.",
+        "url": "https://www.youtube.com/results?search_query=Pallof%20press%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "28",
+        "group": "Core",
+        "name": "Suitcase carry",
+        "prescription": "3 × 30 sec/side · walk tall",
+        "instructions": "Hold one dumbbell at your side and walk slowly. Keep shoulders and pelvis level; avoid leaning.",
+        "url": "https://www.youtube.com/results?search_query=Suitcase%20carry%20exercise%20demonstration%20physical%20therapist"
+      },
+      {
+        "id": "29",
+        "group": "Cooldown",
+        "name": "Standing calf stretch",
+        "prescription": "1 × 30 sec/side · gentle",
+        "instructions": "Hands on a wall, one leg back with heel down. Lean forward gently until you feel a mild calf stretch.",
+        "url": "https://www.youtube.com/results?search_query=Standing%20calf%20stretch%20exercise%20demonstration%20physical%20therapist"
+      }
+    ]
+  }
+]
